@@ -69,7 +69,11 @@ Bert_Classifier.ipynb
 - Add confusion matrix visualization
 - Deploy the model as a web application
 
-  
+  ## Demo
+
+The model can classify news headlines into World, Sports, Business, and Sci/Tech categories using a simple interface.
+
+![Gradio Interface](gradio_demo.png)
 
   ---
 
